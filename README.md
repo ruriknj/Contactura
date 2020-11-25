@@ -4,7 +4,7 @@
 - ### Qual o objetivo do projeto
      Este projeto foi criado pela Fuctura para preparar o aluno à seleção na vaga de Programador Trainee na FlexPag
 - ### Quem fez o projeto
-      Rurik Nicolau Janiszewski
+     Rurik Nicolau Janiszewski
 - ### Tecnologias usadas no projeto
      * SpringBoot
      * Mysql
