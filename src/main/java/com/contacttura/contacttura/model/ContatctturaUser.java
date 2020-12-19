@@ -14,15 +14,16 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Data
 @Entity
-
-public class Contacttura {
+public class ContatctturaUser {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 	
+	private String username;
+	private String password;
 	private String name;
-	private String email;
-	private String phone;
+	private boolean admin;
+
 	
 }
