@@ -2,6 +2,7 @@ package com.contacttura.contacttura;
 
 import java.util.stream.LongStream;
 
+
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

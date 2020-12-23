@@ -9,4 +9,10 @@ import com.contacttura.contacttura.model.ContatctturaUser;
 
 
 @Repository
-public interface ContactturaUserRepository extends JpaRepository<ContatctturaUser, Long> {}
+public interface ContactturaUserRepository extends JpaRepository<ContatctturaUser, Long> {
+	
+// busca pelo nome do usuario
+ContatctturaUser findByUsername(String username);
+
+}
+
