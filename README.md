@@ -15,7 +15,7 @@
         * Angular 10
         * HTML
         * CSS
-        * Bootstrap
+        * Material design
         * Typescript
  
   
